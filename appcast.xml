@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Ice</title>
+        <item>
+            <title>0.11.14</title>
+            <pubDate>Wed, 16 Sep 2026 02:42:06 +0700</pubDate>
+            <sparkle:version>1121</sparkle:version>
+            <sparkle:shortVersionString>0.11.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/cavaldos/Ice/releases/download/v0.11.14/Ice.zip" length="4347121" type="application/octet-stream" sparkle:edSignature="8oPQBnIaxa4wnmRsQ09I7dj0LaKB59lYFKMBRSrq+/fU0AUB0zHVeMqWCQKfSNgOWI/wXV21Rg1RV8tJpArVCQ=="/>
+        </item>
+    </channel>
+</rss>

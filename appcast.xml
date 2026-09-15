@@ -4,6 +4,14 @@
         <title>Ice</title>
         <item>
             <title>0.11.15</title>
+            <pubDate>Wed, 16 Sep 2026 03:40:42 +0700</pubDate>
+            <sparkle:version>1123</sparkle:version>
+            <sparkle:shortVersionString>0.11.15</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/cavaldos/Ice/releases/download/v0.11.15/Ice.zip" length="4214340" type="application/octet-stream" sparkle:edSignature="75McahoAAYPK5vv5FCIBDQ72RjFTsczG8cxNMz53YqwHrS8kjonyS3v7xev6N2hGebFimrpRc5qwFWdVZ/gVAQ=="/>
+        </item>
+        <item>
+            <title>0.11.15</title>
             <pubDate>Wed, 16 Sep 2026 03:25:39 +0700</pubDate>
             <sparkle:version>1122</sparkle:version>
             <sparkle:shortVersionString>0.11.15</sparkle:shortVersionString>

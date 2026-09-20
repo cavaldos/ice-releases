@@ -3,6 +3,14 @@
     <channel>
         <title>Ice</title>
         <item>
+            <title>0.11.28</title>
+            <pubDate>Sun, 20 Sep 2026 20:24:10 +0700</pubDate>
+            <sparkle:version>1136</sparkle:version>
+            <sparkle:shortVersionString>0.11.28</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/cavaldos/Ice/releases/download/v0.11.28/Ice.zip" length="4376416" type="application/octet-stream" sparkle:edSignature="YeIRgNm4crq91Z9Pkgn2gAE1xISoag8KPB0uZtUb5dci2mUpVEMq0K0dbYhO1s6yAoZP+u2ZQB0kK+8JXv5fCQ=="/>
+        </item>
+        <item>
             <title>0.11.25</title>
             <pubDate>Sat, 19 Sep 2026 18:39:57 +0700</pubDate>
             <sparkle:version>1133</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.11.24</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/cavaldos/Ice/releases/download/v0.11.24/Ice.zip" length="4350219" type="application/octet-stream" sparkle:edSignature="Lo7I9f2Jhd5IZMunUwNdt6UhPjWrVZSukh90qXM56Y1QpvPe2/1uT8PZBloldV7ol6hHjTz6/p74fvj1qD9KAg=="/>
-        </item>
-        <item>
-            <title>0.11.23</title>
-            <pubDate>Thu, 17 Sep 2026 16:28:32 +0700</pubDate>
-            <sparkle:version>1131</sparkle:version>
-            <sparkle:shortVersionString>0.11.23</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/cavaldos/Ice/releases/download/v0.11.23/Ice.zip" length="4144896" type="application/octet-stream" sparkle:edSignature="rSAuq+67Lo4/gHiJ4TbeSjojAFwqQNwkJkhGkXNcO4RP7fKWMtfJIB1UEqBMII4Phn0rCcObWtv9uzVP4IzDDQ=="/>
         </item>
     </channel>
 </rss>
